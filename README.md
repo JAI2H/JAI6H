@@ -25,6 +25,8 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+**Who I Am:**
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🇪🇬 I live in : Egypt .
 - 🌱 my age 18 Year
 - 📫 How to reach me ...[Amr Javai](https://t.me/UU_AK0): Dev
@@ -48,7 +50,7 @@ You can use the website to generate badges: https://shields.io/
 |       **[My accounts on social media](https://t.me/JAI6H)**                                                                                |
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### My Social Media
+### My accounts on social media
 <p>
     <a href="https://www.facebook.com/profile.php?id=100040596392876" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
     <a href="https://t.me/uu_ak0" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
