@@ -30,14 +30,14 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/JAI6H"><img src="https://telegra.ph/file/58f9688bddd81d38ffe32.jpg" width="700px" height="300px" /></a> |
+| <a href="https://t.me/JAI6H"><img src="https://telegra.ph/file/0a6ff0e2eee521bba6741.jpg" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[My accounts on social media](https://t.me/JAI6H)**                                                                                |
 ### My Social Media
 <p>
-    <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
-    <a href="https://t.me/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://instagram.com/mrismanaziz_" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100040596392876" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
+    <a href="https://t.me/uu_ak0" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://instagram.com/amr_java" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
 </p>
 
 <!-- Talking about you -->
@@ -55,21 +55,13 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-## Join My Group ❤️.
+## Telegram ❤️.
 <a href="https://t.me/GI18H" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 ### My Bar & My Channel ❤️.
 <a href="https://t.me/AKJA0"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
-# Most Used Languages 🧑‍💻❤️.
-
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dihanofficial)
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-
 
 
 ---
