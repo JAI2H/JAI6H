@@ -42,12 +42,12 @@ I created these images, feel free to use them.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/JAI6H"><img src="https://telegra.ph/file/0a6ff0e2eee521bba6741.jpg" width="700px" height="300px" /></a> |
+| <a href="https://t.me/JAI6H"><img src="https://telegra.ph/file/8f59f7e12b0e1142f8458.jpg" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[My accounts on social media](https://t.me/JAI6H)**                                                                                |
+|       **[My favorite picture](https://t.me/JAI6H)**                                                                                |
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### My accounts on social media
+### My accounts on social media 👇.
 <p>
     <a href="https://www.facebook.com/profile.php?id=100040596392876" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
     <a href="https://t.me/uu_ak0" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
