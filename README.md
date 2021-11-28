@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Prog Amr Khaled | [![Profile Views](https://camo.githubusercontent.com/15ee529d007bdb06bf9870926828f407f81ce2f838878338c30962600f89f6f8/68747470733a2f2f677076632e6172747572696f2e6465762f6e696e6a6131313230)](https://github.com/JAI6H)
 
 <p align="center">
-  <a href="https://t.me/JAI6H"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/JAI6H"><img src="https://github-readme-stats.vercel.app/api?username=mrismanaziz&hide=issues&show_icons=true&hide_border=true&title_color=000"></a>
     </p>
 <p align="center">
     <img
