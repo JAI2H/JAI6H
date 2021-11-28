@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me ...[Amr Javai](https://t.me/UU_AK0): Dev
 - ⚡️ Fun-Fact: I'm Still Student;
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Telegram ❤️.
 <a href="https://t.me/GI18H" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
