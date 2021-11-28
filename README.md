@@ -33,8 +33,12 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/JAI6H"><img src="https://telegra.ph/file/58f9688bddd81d38ffe32.jpg" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[My accounts on social media](https://t.me/JAI6H)**                                                                                |
-| <a href="https://t.me/JAI6H"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/amr_java"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://https://youtube.com/c/AmrJava"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>              <a href="https://www.facebook.com/profile.php?id=100040596392876"><img src="https://telegra.ph/file/3274549109051466720ec.png" width="100px" height="100px">                                                                   
-
+### My Social Media
+<p>
+    <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
+    <a href="https://t.me/mrismanaziz" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://instagram.com/mrismanaziz_" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
+</p>
 
 <!-- Talking about you -->
 **Who I Am:**
