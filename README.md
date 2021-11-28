@@ -25,7 +25,20 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+- 🇪🇬 I live in : Egypt .
+- 🌱 my age 18 Year
+- 📫 How to reach me ...[Amr Javai](https://t.me/UU_AK0): Dev
+- ⚡️ Fun-Fact: I'm Still Student;
 
+
+
+## Telegram ❤️.
+<a href="https://t.me/GI18H" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+### My Bar & My Channel ❤️.
+<a href="https://t.me/AKJA0"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -33,6 +46,8 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/JAI6H"><img src="https://telegra.ph/file/0a6ff0e2eee521bba6741.jpg" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[My accounts on social media](https://t.me/JAI6H)**                                                                                |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### My Social Media
 <p>
     <a href="https://www.facebook.com/profile.php?id=100040596392876" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
@@ -42,26 +57,11 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **Who I Am:**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Any image aligned to the right. Beware the width -->
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
-  
-- 🇪🇬 I live in : Egypt .
-- 🌱 my age 18 Year
-- 📫 How to reach me ...[Amr Javai](https://t.me/UU_AK0): Dev
-- ⚡️ Fun-Fact: I'm Still Student;
-
-
-
-## Telegram ❤️.
-<a href="https://t.me/AKJA0" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-### My Bar & My Channel ❤️.
-<a href="https://t.me/AKJA0"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
 
 
 ---
