@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🇪🇬 I live in : Egypt .
 - 🌱 my age 18 Year
-- 📫 How to reach me ...[Amr Java](https://t.me/UU_AK0): Dev
+- 📫 How to reach me : [Amr Java](https://t.me/jai6h)
 - ⚡️ Fun-Fact: I'm Still Student;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
