@@ -14,7 +14,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-**Who I Am:**
+**Info about me:**
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - 🇪🇬 I live in : Egypt .
 - 🌱 my age 18 Year
