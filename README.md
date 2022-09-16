@@ -40,12 +40,6 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 <!-- Talking about you -->
-**Who I Am:**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Any image aligned to the right. Beware the width -->
-
-
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 
 
 ---
