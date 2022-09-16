@@ -23,9 +23,6 @@ You can use the website to generate badges: https://shields.io/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Telegram ❤️.
-<a href="https://t.me/JII6H" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-Click on the telegram icon"></a>
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
