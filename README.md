@@ -39,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
     <a href="https://instagram.com/prog_3mr" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
 </p>
 
-<!-- Talking about you -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ---
