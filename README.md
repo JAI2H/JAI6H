@@ -33,9 +33,6 @@ I created these images, feel free to use them.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/JAI6H"><img src="https://telegra.ph/file/8f59f7e12b0e1142f8458.jpg" width="700px" height="300px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[My favorite picture](https://t.me/JAI6H)**                                                                                |
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### My accounts on social media 👇.
