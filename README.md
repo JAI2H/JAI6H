@@ -10,7 +10,7 @@
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=jankarikiduniya&theme=tokyonight"
+       
     />
 </p>
 <!-- Your title -->
