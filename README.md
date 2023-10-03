@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
 Lua      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89 
 Payton   2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
 Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-ph        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+css        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
 
 ----
 
