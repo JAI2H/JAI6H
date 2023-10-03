@@ -35,8 +35,8 @@ You can use the website to generate badges: https://shields.io/
 ### My accounts on social media 👇.
 <p>
     <a href="https://www.facebook.com/prog.3mr" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
-    <a href="https://t.me/JII6H" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://instagram.com/prog_3mr" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
+    <a href="https://t.me/JII5H" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://instagram.com/jai5h" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
